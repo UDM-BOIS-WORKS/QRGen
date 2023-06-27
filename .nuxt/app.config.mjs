@@ -1,5 +1,5 @@
 
-import { defuFn } from '/home/jo/NUXT/QRGen/node_modules/.pnpm/defu@6.1.2/node_modules/defu/dist/defu.mjs'
+import { defuFn } from 'D:/Nuxt3js_Acts/QRsample/QRGenerator/QRGen/node_modules/.pnpm/defu@6.1.2/node_modules/defu/dist/defu.mjs'
 
 const inlineConfig = {}
 
